@@ -1,3 +1,5 @@
 checking the auto delete option
 
 checking delete option
+
+checking auto delete branch
