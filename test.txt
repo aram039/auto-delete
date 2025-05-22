@@ -1,1 +1,3 @@
 checking the auto delete option
+
+checking delete option
