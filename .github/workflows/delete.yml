@@ -22,5 +22,5 @@ jobs:
         if: steps.check-branch.outputs.delete_branch == 'true'
         uses: dawidd6/action-delete-branch@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           branches: ${{ github.event.pull_request.head.ref }}
