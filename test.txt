@@ -3,3 +3,4 @@ checking non release branches
 testing delete branch
 
 testing development branch
+testing non release branch
